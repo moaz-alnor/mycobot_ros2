@@ -1,3 +1,3 @@
 # mycobot_ros2 #
-![OS](https://img.shields.io/ubuntu/v/ubuntu.wallpapers/noble)
+![OS](https://img.shields.io/badge/ubuntu-24.04-orange?logo=ubuntu&logoColor=white)
 ![ROS_2](https://img.shields.io/ros/v/jazzy/rclcpp)
